@@ -10,6 +10,6 @@ Spannen Sie mal Ihren linken Unterarm an. Hat es geklappt? Ein Gedanke reicht, u
 
 ![Picture](https://github.com/MakeMagazinDE/MuscleLaserRun/blob/master/musclelaserrun.JPG)
 
-Den vollständigen Artikel mit der Bauanleitung unter dem Titel "MuscleLaserRun" gibt es ab 11.12.2019 in der **[Make-Ausgabe 6/19](https://www.heise.de/select/make/2019/6/1234)** zu lesen. Hier bei GitHub gibt es hingegen die Materialliste, die  Lasercutter-Schnittvorlagen und den Arduino-Code zum Download. 
+Den vollständigen Artikel mit der Bauanleitung unter dem Titel "MuscleLaserRun" gibt es ab 11. Dezember 2019 in der **[Make-Ausgabe 6/19](https://www.heise.de/select/make/2019/6/)** zu lesen. Hier bei GitHub gibt es hingegen die Materialliste, die  Lasercutter-Schnittvorlagen und den Arduino-Code zum Download. 
 
 Für Fragen rund um den Solar Racer sowie alle anderen Projekte aus der Make-Ausgabe 6/19 hat die Make-Redaktion ein eigenes [Online-Forum](https://www.heise.de/forum/Make/Heft-Projekte/Artikelforum-Heft-6-2019/forum-437905/) eingerichtet.
